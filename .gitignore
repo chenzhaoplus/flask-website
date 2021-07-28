@@ -8,3 +8,4 @@ dist
 _mailinglist/*
 *.egg-info
 .idea/
+venv
